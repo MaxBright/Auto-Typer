@@ -45,14 +45,4 @@ int Max::match_string_int(string msi_input, string desiredvalue, int matchvar)
     else return 0;
 }
 
-void Max::println(string println_input)
-{
-    cout << println_input << "\n";
-}
-
-void Max::print(string print_input)
-{
-    cout << print_input;
-}
-
 
