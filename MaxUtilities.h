@@ -22,8 +22,6 @@ namespace Max
     int string_to_int(string sti_input);
     int match_string_int(string msi_input, string desiredvalue, int matchvar);
     DWORD getTimeElapsed();
-    void println(string);
-    void print(string);
 }
 
 
